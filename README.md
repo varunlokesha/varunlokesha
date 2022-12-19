@@ -13,4 +13,4 @@ I'm Varun, I'm a Data Enthusiast and I'm inspired by tough problems!
 
 
 ### 🙌🏻 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/varunlokesha/)
+- [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunlokesha/)
