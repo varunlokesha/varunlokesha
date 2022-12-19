@@ -12,7 +12,7 @@ I'm Varun, I'm a Data Enthusiast and I'm inspired by tough problems!
 - ## Skills - ![1](https://img.shields.io/badge/-Data%20Cleaning%20and%20Wrangling-success) ![2](https://img.shields.io/badge/-Data%20Visualisation-informational) ![3](https://img.shields.io/badge/-Data%20Analysis-important) ![4](https://img.shields.io/badge/-Machine%20Learning-lightgrey) ![5](https://img.shields.io/badge/-Dashboard%20Design%20and%20Development-ff69b4) ![6](https://img.shields.io/badge/-Relational%20Databases-yellow)
 
 ### 💼 Check out my Portfolio
-- Lading...
+- Loading...
 
 ### 🙌🏻 Connect with Me
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunlokesha/)
