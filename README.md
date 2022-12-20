@@ -4,7 +4,7 @@ I'm Varun, I'm a Data Enthusiast and I'm inspired by tough problems!
 
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Web Developer turned Data Analyst/Scientist
-- 📊 Transition to data & Analytics since **September 2021**
+- 📊 Transition to Data & Analytics since **September 2021**
 - 📝 Taught myself R Programming, Python and Tableau and data skills.
 
 ### 💡 Core Competencies 💡
