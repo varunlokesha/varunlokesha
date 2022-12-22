@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/varunlokesha/varunlokesha/blob/main/greetings.gif?raw=true" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/varunlokesha/varunlokesha/main/greeting-new.gif" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Varun, I'm a Data Enthusiast and I'm inspired by tough problems!</div> 
