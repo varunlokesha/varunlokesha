@@ -6,9 +6,8 @@
 
 <br>
 
-<div align="center">✨ About Me in 30 Secs ✨<br>👩🏻‍💻 Web Developer turned Data Analyst/Scientist<br> Transition to Data & Analytics since September 2021 📊<br>📝 Taught myself R Programming, Python and Tableau and data skills.</div>
-
-
+# ✨ About Me ✨
+👩🏻‍💻 Web Developer turned Data Analyst/Scientist<br>📊Transition to Data & Analytics since September 2021 <br>📝 Taught myself R Programming, Python and Tableau and data skills
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
