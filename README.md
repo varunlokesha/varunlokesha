@@ -23,7 +23,7 @@
 ![1](https://img.shields.io/badge/-Data%20Cleaning%20&%20Wrangling-D24939?logo=&logoColor=white&style=for-the-badge) ![2](https://img.shields.io/badge/-Data%20analysis-B0BEA9?logo=&logoColor=white&style=for-the-badge) ![3](https://img.shields.io/badge/-Data%20Visualization-F7B32B?logo=&logoColor=white&style=for-the-badge) ![4](https://img.shields.io/badge/-Machine%20Learning-6F5E76?logo=&logoColor=white&style=for-the-badge) ![5](https://img.shields.io/badge/-dashboard%20design%20&%20Development-D90368?logo=&logoColor=white&style=for-the-badge) ![6](https://img.shields.io/badge/-Relational%20Database-E6C229?logo=&logoColor=white&style=for-the-badge)
 
 # 💼 My Portfolio
-- Loading...
+ Checkout my portfolio website which houses all my projects   [![LinkedIn](https://img.shields.io/badge/Portfolio%20Website-%230077B5.svg?logo=&logoColor=white&style=for-the-badge)](https://www.projectvl.com/) 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/varunlokesha)
