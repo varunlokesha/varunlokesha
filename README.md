@@ -20,7 +20,8 @@
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GIT](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=git&logoColor=white&style=for-the-badge)  
 
-# 👨🏻‍💻Skills - ![1](https://img.shields.io/badge/-Data%20Cleaning%20&%20Wrangling-D24939?logo=&logoColor=white&style=for-the-badge) ![2](https://img.shields.io/badge/-Data%20analysis-B0BEA9?logo=&logoColor=white&style=for-the-badge) ![3](https://img.shields.io/badge/-Data%20Visualization-F7B32B?logo=&logoColor=white&style=for-the-badge) ![4](https://img.shields.io/badge/-Machine%20Learning-6F5E76?logo=&logoColor=white&style=for-the-badge) ![5](https://img.shields.io/badge/-dashboard%20design%20&%20Development-D90368?logo=&logoColor=white&style=for-the-badge) ![6](https://img.shields.io/badge/-Relational%20Database-E6C229?logo=&logoColor=white&style=for-the-badge)
+# 👨🏻‍💻Skills: 
+![1](https://img.shields.io/badge/-Data%20Cleaning%20&%20Wrangling-D24939?logo=&logoColor=white&style=for-the-badge) ![2](https://img.shields.io/badge/-Data%20analysis-B0BEA9?logo=&logoColor=white&style=for-the-badge) ![3](https://img.shields.io/badge/-Data%20Visualization-F7B32B?logo=&logoColor=white&style=for-the-badge) ![4](https://img.shields.io/badge/-Machine%20Learning-6F5E76?logo=&logoColor=white&style=for-the-badge) ![5](https://img.shields.io/badge/-dashboard%20design%20&%20Development-D90368?logo=&logoColor=white&style=for-the-badge) ![6](https://img.shields.io/badge/-Relational%20Database-E6C229?logo=&logoColor=white&style=for-the-badge)
 
 # 💼 My Portfolio
 - Loading...
